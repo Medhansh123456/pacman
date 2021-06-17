@@ -10,10 +10,10 @@ function preload(){
 
 
  //pacman image---------------------------------------------------------------------------- 
-    pc1=loadImage("images/pac1.png");
-    pc2=loadImage("images/pac2.png");
-    pc3=loadImage("images/pac3.png");
-    pc4=loadImage("images/pac4.png");
+    pc1=loadImage("pac1.png");
+    pc2=loadImage("pac2.png");
+    pc3=loadImage("pac3.png");
+    pc4=loadImage("pac4.png");
   //pac man image---------------------------------------------------------------------------
 
    
